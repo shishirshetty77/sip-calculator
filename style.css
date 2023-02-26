@@ -48,7 +48,7 @@
   
   button {
     padding: 10px;
-    background-color: #4CAF50;
+    background-color: blue;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -63,4 +63,4 @@
     font-size: 24px;
     font-weight: bold;
   }
-  /*Total investment = Principal + Monthly Investment * [(1 + Rate of Interest/1200)^Time Period - 1] / (Rate of Interest/1200) scss*/
+
